@@ -1,6 +1,8 @@
 # Installation Instructions
 To be able to use this app, run 'setup.py' once to install the required packages.
 
+Next, just run 'main.pyw' to launch the app.
+
 
 # Used Packages
 1. Tkinter
@@ -38,23 +40,23 @@ I hope this makes sense :)
 
 Home Screen:
 
-![screenshot](data/images/home_screen.png)
+![screenshot](data/home_screen.png)
 
 Info Screen:
 
-![screenshot](data/images/info_screen.png)
+![screenshot](data/info_screen.png)
 
 Test Screen (before beginning):
 
-![screenshot](data/images/test_pre.png)
+![screenshot](data/test_pre.png)
 
 Test Screen (after beginning):
 
-![screenshot](data/images/test.png)
+![screenshot](data/test.png)
 
 Test Results Screen:
 
-![screenshot](data/images/results.png)
+![screenshot](data/results.png)
 
 
 To support me, go here:

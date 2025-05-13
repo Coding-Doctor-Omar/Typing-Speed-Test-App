@@ -22,7 +22,7 @@ class UI:
         self.window = Tk()
         self.window.title("Speedy")
         self.window.config(bg=MAIN_THEME_COLOR)
-        icon = PhotoImage(file="data/images/speed_icon.png")
+        icon = PhotoImage(file="data/speed_icon.png")
         self.window.iconphoto(False, icon)
 
         self.load_main_menu()
@@ -41,7 +41,7 @@ class UI:
         self.logo_display.grid(row=0, column=0, columnspan=2, pady=5)
         self.window.update_idletasks()
 
-        logo = Image.open("data/images/speedometer.png")
+        logo = Image.open("data/speedometer.png")
 
         target_width = 400
         target_height = int(target_width * logo.height / logo.width)
